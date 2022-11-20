@@ -1,3 +1,6 @@
+# NOTICE
+As of 2022-11-19, the original dev has stated that they don't want to get reports from this project anymore. Do **not** contact the original developer. This branch is for archiving purposes **ONLY**.
+
 # Überzug
 
 Überzug is a command line util
